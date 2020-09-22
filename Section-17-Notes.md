@@ -1,0 +1,3 @@
+- [ ] Section 17: Non-JS Fallback Traditional Search 0/2 | 39min
+  - [ ] 80. Traditional WordPress Searching 19min
+  - [ ] 81. Traditional WordPress Searching (Part 2) 20min
