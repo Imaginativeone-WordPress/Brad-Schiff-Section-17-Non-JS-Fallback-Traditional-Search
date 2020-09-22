@@ -1,0 +1,1 @@
+# Brad-Schiff-Section-17-Non-JS-Fallback-Traditional-Search
